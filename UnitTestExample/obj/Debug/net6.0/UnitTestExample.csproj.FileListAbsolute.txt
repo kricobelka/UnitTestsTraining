@@ -1,0 +1,30 @@
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.exe
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.deps.json
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.runtimeconfig.json
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.dll
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\bin\Debug\net6.0\UnitTestExample.pdb
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.csproj.AssemblyReference.cache
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.AssemblyInfoInputs.cache
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.AssemblyInfo.cs
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.dll
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\refint\UnitTestExample.dll
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.pdb
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\UnitTestExample.genruntimeconfig.cache
+C:\Users\hijik\Downloads\UnitTestExample\UnitTestExample\obj\Debug\net6.0\ref\UnitTestExample.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\bin\Debug\net6.0\UnitTestExample.exe
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\bin\Debug\net6.0\UnitTestExample.deps.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\bin\Debug\net6.0\UnitTestExample.runtimeconfig.json
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\bin\Debug\net6.0\UnitTestExample.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\bin\Debug\net6.0\UnitTestExample.pdb
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.csproj.AssemblyReference.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.AssemblyInfoInputs.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.AssemblyInfo.cs
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\refint\UnitTestExample.dll
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.pdb
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\UnitTestExample.genruntimeconfig.cache
+C:\Users\hijik\Visual Studio Community\repos\TMS\Homework TMS\Homework_TMS_Hanna-Ivanova\UnitTests\UnitTestsTraining\UnitTestExample\obj\Debug\net6.0\ref\UnitTestExample.dll
